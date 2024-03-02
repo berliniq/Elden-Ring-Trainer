@@ -25,7 +25,7 @@
 
 ## Note
 - **!! Use only without Anti-Cheat !!**
-- This trainer is intended for Single-Player use only and may not work with all versions of the game. Use at your own risk.
+- This trainer is intended for Single-Player use only and may not work with Game Versions older than **1.09**.
 - It may Work fine with the steamless coop mod.
 - Backup your save before using it.
 
