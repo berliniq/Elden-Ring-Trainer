@@ -1,6 +1,7 @@
 # Elden-Ring-Trainer
 
-A simple Python Trainer for Elden Ring, recommended for Game version 1.09 and higher.
+- A simple Python Trainer for Elden Ring using [PyMeow](https://github.com/qb-0/pyMeow/tree/master)
+- Recommended for Game version 1.09 and higher.
 
 ## Features
 
