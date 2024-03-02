@@ -11,11 +11,11 @@
   
 - **Unlimited Energy:** Keep your Character's Energy topped up at all times.
   
-- **Max Health:** Set the Maximum Health for your Character (Doesn't affect your **VIGOR** Attribute).
+- **Set Max Health:** Set the Maximum Health for your Character (Doesn't affect your **VIGOR** Attribute).
   
-- **Max Energy:** Set the Maximum Energy for your Character (Doesn't affect your **MIND** Attribute).
+- **Set Max Energy:** Set the Maximum Energy for your Character (Doesn't affect your **MIND** Attribute).
   
-- **Custom Attributes:** Adjust your Character's Attributes.
+- **Set Attributes:** Adjust your Character's Attributes for free and at anytime.
   
 - **Character Types:** Change between Original, White Phantom, Dark Spirit, and Ghost.
   
