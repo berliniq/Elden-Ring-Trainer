@@ -14,7 +14,7 @@ A simple Python Trainer for Elden Ring, recommended for Game version 1.09 and hi
 
 ## Usage
 
-1. Download the latest release of the trainer executable from the [releases page](https://github.com/berliniq/Elden-Ring-Trainer/releases/tag/Elden-Ring-T).
+1. Download the latest release of the trainer executable from the [releases page](https://github.com/berliniq/Elden-Ring-Trainer/releases/tag/Elden-Ring-Trainer).
 2. Run the trainer alongside the game.
 3. Have Fun !
 
