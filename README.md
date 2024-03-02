@@ -7,6 +7,7 @@
 
 - **Set Runes:** Customize the amount of Runes you need.
 - **Unlimited Health:** Keep your Character's Health topped up at all times.
+- **Unlimited Energy:** Keep your Character's Energy topped up at all times.
 - **Max Health:** Set the Maximum Health for your Character (Doesn't affect your **VIGOR** Attribute).
 - **Max Energy:** Set the Maximum Energy for your Character (Doesn't affect your **MIND** Attribute).
 - **Custom Attributes:** Adjust your Character's Attributes.
