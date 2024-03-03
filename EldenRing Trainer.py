@@ -145,18 +145,18 @@ if process_exists("start_protected_game.exe") or process_exists("Elden-Ring.exe"
                                 try:
                                         z = int(z)
                                 except:
-                                        print("ya 5wl\n")
+                                        print("Enter a number !\n")
                                         
                                 if z == 1:    #runes
-                                        runess = input("How much Runes you need ya kosmk ?\n")
+                                        runess = input("How much Runes you need ?\n")
                                         try:
                                                 runess = int(runess)
                                                 print("Writing...")
                                                 time.sleep(2)
                                                 w_int(process, runes, runess)
-                                                print("Success ya kosmk ya hacker yabnl 27ba\n")
+                                                print("Success\n")
                                         except:
-                                                print("Kosmk enter a number !\n")
+                                                print("Enter a number !\n")
                                 
                                 
                                 elif z == 2:    #health
@@ -191,20 +191,20 @@ if process_exists("start_protected_game.exe") or process_exists("Elden-Ring.exe"
                                                         time.sleep(0.5)
                                                         
                                                         if py.r_int(process, max_health) == i:
-                                                                print("Success ya kosmk\n")
+                                                                print("Success\n")
                                                         else:
                                                                 py.w_int(process, max_health2, i)
                                                                 time.sleep(1)
                                                                 if py.r_int(process, max_health) == i:
-                                                                        print("Success ya kosmk\n")
+                                                                        print("Success\n")
                                                                 else:
                                                                         print("Didn't work on your Save. Don't try this again to prevent corrupting your save file\n")
                                                 
                                                 except:
-                                                        print("Kosmk it didn't work\n")
+                                                        print("Didn't Work\n")
                                                         
                                         elif method == '3':
-                                                print("You Will Regret !")
+                                                print("! HARDCORE EXECUTING !")
                                                 time.sleep(5)
                                                 w_int(process, health, 10000)
                                                 time.sleep(1)
@@ -253,16 +253,16 @@ if process_exists("start_protected_game.exe") or process_exists("Elden-Ring.exe"
                                                         py.w_int(process, max_energy, i)
                                                         time.sleep(0.5)
                                                         if py.r_int(process, max_energy) == i:
-                                                                print("Success ya kosmk\n")
+                                                                print("Success\n")
                                                         else:
                                                                 py.w_int(process, max_energy2, i)
                                                                 time.sleep(1)
                                                                 if py.r_int(process, max_energy2) == i:
-                                                                        print("Success ya kosmk\n")
+                                                                        print("Success\n")
                                                                 else:
                                                                         print("Didn't work on your Save. Don't try this again to prevent corrupting your save file\n")
                                                 except:
-                                                        print("Kosmk it didn't work\n")
+                                                        print("Didn't work.\n")
                                                         
                                 elif z == 4:
                                         print("Giving You Max Health & Energy...")
@@ -400,7 +400,7 @@ if process_exists("start_protected_game.exe") or process_exists("Elden-Ring.exe"
                                                         try:
                                                                 z = int(z)
                                                         except:
-                                                                print("Enter a Number ykosmk")
+                                                                print("Enter a Number")
                                                         
                                                         if z <= 99 and z >= 0:
                                                                 print("Writing...")
@@ -438,9 +438,9 @@ if process_exists("start_protected_game.exe") or process_exists("Elden-Ring.exe"
                                                         py.w_int(process, Character_Type, i)
                                                         print("Success !")
                                                 else:
-                                                        print("\nkosmk\n")
+                                                        print("\nEnter a number.\n")
                                         except:
-                                                print("Yla Ya 5wl")
+                                                print("Enter a number")
                                 
                                 elif z == 7:
                                         if state == False:
